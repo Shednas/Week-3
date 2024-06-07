@@ -1,0 +1,15 @@
+body{ margin:0;}
+header{}
+header div:first-child{padding: 0%; background:blue; width: 50%; float: left;}
+header div:nth-child(2){padding: 0%; background:green; width: 50%; float: left;}
+
+nav{background-color: red}
+nav ul li{
+	list-style: none; float: left; margin: 0.5%; padding: 1%; background: yellow;
+}
+.clear{ clear: both; }
+
+section div:first-child{padding: 0%; background:blue; width: 50%; height: 500px; float: left;}
+section div:nth-child(2){padding: 0%; background:#ffebee; width: 50%; height: 500px; float: left;}
+
+footer{background-color: pink}
